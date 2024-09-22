@@ -36,13 +36,13 @@ To run this project, you'll need:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/<your-github-username>/package-sorter.git
+    https://github.com/Coder-Joe458/PackageSorter.git
     ```
 
 2. **Navigate to the project directory**:
 
     ```bash
-    cd package-sorter
+    cd PackageSorter
     ```
 
 3. **Compile the files**:
